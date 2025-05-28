@@ -1,0 +1,13 @@
+{ 
+    "nama": "Surya Rahmadhani Batubara",
+    "umur": 20,
+    "nim" : "2217020019",
+    "lulus": false,
+    "hobby" : [
+        "Nonton",
+        "Tari"
+    ],
+    "Pembimbing" : {
+        "Dosenpembimbing" : "Haditya Prasetyo, S.Kom, M.Kom"
+    }
+}
