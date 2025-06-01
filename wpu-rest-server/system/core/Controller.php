@@ -65,6 +65,7 @@ class CI_Controller {
 	 * @var	CI_Loader
 	 */
 	public $load;
+	public $mahasiswa;
 
 	/**
 	 * Class constructor

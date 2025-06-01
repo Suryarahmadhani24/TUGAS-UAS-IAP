@@ -58,6 +58,7 @@ class CI_Loader {
 	 * @var	int
 	 */
 	protected $_ci_ob_level;
+	public $mahasiswa;
 
 	/**
 	 * List of paths to load views from
