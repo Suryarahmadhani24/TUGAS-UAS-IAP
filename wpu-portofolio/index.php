@@ -84,7 +84,7 @@ $gambar1 = $resultGambar1['media']['data'][0]['media_url'];
         <div class="text-center">
           <img src="img/profile1.png" class="rounded-circle img-thumbnail">
           <h1 class="display-4">Surya Rahmadhani Batubara</h1>
-          <h3 class="lead">Lecturer | Programmer | Youtuber</h3>
+          <h3 class="lead">Student | UI/UX Design | Dancer</h3>
         </div>
       </div>
     </div>
