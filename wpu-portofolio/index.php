@@ -254,9 +254,9 @@ $gambar1 = $resultGambar1['media']['data'][0]['media_url'];
             
             <ul class="list-group mb-4">
               <li class="list-group-item"><h3>Location</h3></li>
-              <li class="list-group-item">My Office</li>
-              <li class="list-group-item">Jl. Setiabudhi No. 193, Bandung</li>
-              <li class="list-group-item">West Java, Indonesia</li>
+              <li class="list-group-item">Universitas</li>
+              <li class="list-group-item">UIN Imam Bonjol Padang</li>
+              <li class="list-group-item">Sumatera Barat, Indonesia</li>
             </ul>
           </div>
 
