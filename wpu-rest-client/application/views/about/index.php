@@ -71,7 +71,7 @@
                 <img class="card-img-top" src="<?= base_url(); ?>assets/img/thumbs/client.png" alt="Card image cap">
                 <div class="card-body">
                   <h5>WPU-REST-CLIENT</h5>
-                  <p class="card-text">Membuat Rest Client menggunakan framework CodeIgniter3</p>
+                  <p class="card-text">Membuat Rest Client menggunakan Framework CodeIgniter3</p>
                   <a href="<?= base_url(); ?>home" class="card-link see-detail"data-bs-toggle="modal" data-bs-target="#exampleModal" data-id="`+ data.imdbID +`" >See Project</a>
                 </div>
               </div>
